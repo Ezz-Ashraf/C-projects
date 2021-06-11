@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1605960623 source:d:\computer science\2\1st semester\data structure\applications\queueimp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1605804784 d:\computer science\2\1st semester\data structure\applications\queueimp\include\queue.h
+	<stdio.h>
+
+1605959675 source:d:\computer science\2\1st semester\data structure\applications\queueimp\src\queue.c
+	"queue.h"
+
+1613664579 source:d:\computer science\2\1st semester\data structure\lectures\practical\queueimp\src\queue.c
+	"queue.h"
+
+1605804784 d:\computer science\2\1st semester\data structure\lectures\practical\queueimp\include\queue.h
+	<stdio.h>
+
+1613664761 source:d:\computer science\2\1st semester\data structure\lectures\practical\queueimp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+

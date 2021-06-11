@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1610630860 source:d:\computer science\2\1st semester\data structure\lectures\practical\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1610584008 d:\computer science\2\1st semester\data structure\lectures\practical\bst\include\tree.h
+
+1605976098 d:\computer science\2\1st semester\data structure\lectures\practical\bst\include\stack.h
+
+1605976110 source:d:\computer science\2\1st semester\data structure\lectures\practical\bst\src\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1610629259 source:d:\computer science\2\1st semester\data structure\lectures\practical\bst\src\tree.c
+	"tree.h"
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1610630860 source:d:\computer science\2\1st semester\data structure\applications\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1610584008 d:\computer science\2\1st semester\data structure\applications\bst\include\tree.h
+
+1605976098 d:\computer science\2\1st semester\data structure\applications\bst\include\stack.h
+
+1605976110 source:d:\computer science\2\1st semester\data structure\applications\bst\src\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1610629259 source:d:\computer science\2\1st semester\data structure\applications\bst\src\tree.c
+	"tree.h"
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1615994726 source:d:\computer science\2\1st semester\data structure\testing apps\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1610584008 d:\computer science\2\1st semester\data structure\testing apps\bst\include\tree.h
+
+1605976110 source:d:\computer science\2\1st semester\data structure\testing apps\bst\src\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1605976098 d:\computer science\2\1st semester\data structure\testing apps\bst\include\stack.h
+
+1614373905 source:d:\computer science\2\1st semester\data structure\testing apps\bst\src\tree.c
+	"tree.h"
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

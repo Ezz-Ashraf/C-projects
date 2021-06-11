@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1605976450 source:d:\computer science\2\1st semester\data structure\applications\stack_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1605976098 d:\computer science\2\1st semester\data structure\applications\stack_linked_list\include\stack.h
+
+1605976110 source:d:\computer science\2\1st semester\data structure\applications\stack_linked_list\src\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1605976450 source:d:\computer science\2\1st semester\data structure\lectures\practical\stack_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1605976098 d:\computer science\2\1st semester\data structure\lectures\practical\stack_linked_list\include\stack.h
+
+1605976110 source:d:\computer science\2\1st semester\data structure\lectures\practical\stack_linked_list\src\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1615999164 source:d:\computer science\2\1st semester\data structure\testing apps\stack_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1615998606 d:\computer science\2\1st semester\data structure\testing apps\stack_linked_list\include\stack.h
+
+1615998858 source:d:\computer science\2\1st semester\data structure\testing apps\stack_linked_list\src\stack.c
+	"stack.h"
+	<stdlib.h>
+

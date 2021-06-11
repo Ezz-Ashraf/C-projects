@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1605642029 source:d:\computer science\2\1st semester\data structure\applications\stackworks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1605642909 d:\computer science\2\1st semester\data structure\applications\stackworks\include\stack.h
+
+1605642982 source:d:\computer science\2\1st semester\data structure\applications\stackworks\src\stack.c
+	"stack.h"
+
+1613224485 source:d:\computer science\2\1st semester\data structure\lectures\practical\stackworks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1613224355 d:\computer science\2\1st semester\data structure\lectures\practical\stackworks\include\stack.h
+
+1613223497 source:d:\computer science\2\1st semester\data structure\lectures\practical\stackworks\src\stack.c
+	"stack.h"
+

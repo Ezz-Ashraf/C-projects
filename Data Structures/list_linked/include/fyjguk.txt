@@ -1,0 +1,80 @@
+#include "list.h"
+#include<stdio.h>
+#include<stdlib.h>
+void CreateList(List *pl)
+{
+    pl=NULL;
+
+}
+int ListEmpty(List *pl)
+{
+    return pl==NULL;
+}
+int ListFull(List *pl)
+{
+    return 0;
+}
+int ListSize(List *pl)
+{
+    return pl->s;
+}
+void DestroyList(List *pl)
+{
+    List *q;
+    while(pl)
+    {
+        q=pl;
+        pl=pl->next;
+        free(q);
+    }
+    pl->s=0;
+}
+void RetrieveList(int pos,listEntry *pe,List *pl)
+{ pl->s--;
+    List *q,*tmp;
+    int i;
+    if(pos==0)
+    {
+        *pe=pl->entry;
+        tmp=pl;
+        pl=pl->next;
+        free(tmp);
+            }
+            else
+                {
+                for(q=pl,i=0;i<pos-1;i++)
+                {
+                q=q->next;
+                }
+                    *pe=q->next->entry;
+                    tmp=q->next;
+                    q->next=tmp->next;
+                    free(tmp);
+
+
+                }
+
+}
+void InserList(int pos,listEntry e,List *pl)
+{
+     pl->s++;
+    List *p=(List *)malloc(sizeof(List));
+    p->entry=e;
+    if(pos==0)
+    {
+        p->next=pl;
+        pl=p;
+    }
+    else
+    {
+        List *q;
+        int i;
+        for(q=pl,i=0;i<pos-1;i++)
+           {
+               q=q->next;
+           }
+            p->next=q->next;
+q->next=p;
+    }
+
+}

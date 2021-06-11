@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1605960623 source:d:\computer science\2\1st semester\data structure\applications\queueimp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1605804784 d:\computer science\2\1st semester\data structure\applications\queueimp\include\queue.h
+	<stdio.h>
+
+1605959675 source:d:\computer science\2\1st semester\data structure\applications\queueimp\src\queue.c
+	"queue.h"
+
+1605959675 source:d:\computer science\2\1st semester\data structure\lectures\practical\queueimp\src\queue.c
+	"queue.h"
+
+1605804784 d:\computer science\2\1st semester\data structure\lectures\practical\queueimp\include\queue.h
+	<stdio.h>
+
+1613685742 source:d:\computer science\2\1st semester\data structure\lectures\practical\queue_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1613685377 d:\computer science\2\1st semester\data structure\lectures\practical\queue_linked\include\queue.h
+	<stdio.h>
+
+1613685606 source:d:\computer science\2\1st semester\data structure\lectures\practical\queue_linked\src\queue.c
+	"queue.h"
+	<stdlib.h>
+
+1616019855 source:d:\computer science\2\1st semester\data structure\testing apps\queue_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1616019445 d:\computer science\2\1st semester\data structure\testing apps\queue_linked\include\queue.h
+	<stdio.h>
+
+1616020549 source:d:\computer science\2\1st semester\data structure\testing apps\queue_linked\src\queue.c
+	"queue.h"
+	<stdlib.h>
+

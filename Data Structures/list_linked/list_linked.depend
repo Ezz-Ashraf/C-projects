@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1606586680 source:d:\computer science\2\1st semester\data structure\applications\list_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1606583670 d:\computer science\2\1st semester\data structure\applications\list_linked\include\list.h
+
+1606586253 source:d:\computer science\2\1st semester\data structure\applications\list_linked\src\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+
+1610640508 source:d:\computer science\2\1st semester\data structure\lectures\practical\list_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1610637140 d:\computer science\2\1st semester\data structure\lectures\practical\list_linked\include\list.h
+
+1610638591 source:d:\computer science\2\1st semester\data structure\lectures\practical\list_linked\src\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+
+1615990516 source:d:\computer science\2\1st semester\data structure\testing apps\list_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1615987717 d:\computer science\2\1st semester\data structure\testing apps\list_linked\include\list.h
+
+1615987747 source:d:\computer science\2\1st semester\data structure\testing apps\list_linked\src\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+

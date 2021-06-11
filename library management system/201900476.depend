@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590792174 source:d:\computer science\1\1st semester\c work\201900476\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<string>
+	<conio.h>
+
