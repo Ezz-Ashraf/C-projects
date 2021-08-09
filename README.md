@@ -1,5 +1,7 @@
 # C-projects
 
-## Kindly check the library Management system first (As it was my first  large project)
+## My projects:
+# 1-Library management System
+# 2-Data structures(Stack,Queue,linked list,BST)
 
  # Thanks
